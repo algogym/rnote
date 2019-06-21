@@ -1,0 +1,9 @@
+Package: rnote
+Title: Lightweight Note-taking in R
+Version: 0.0.0.9000
+Authors@R: person("Tim", "Graf", email = "tim@algorithmusgymnastik", role = c("aut", "cre"))
+Description: A package for light-weight notetaking in R. The idea stems from the dnote software.
+Depends: R (>= 3.6.0)
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
